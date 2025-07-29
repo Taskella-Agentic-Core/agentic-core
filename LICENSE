@@ -1,21 +1,13 @@
-MIT License
+Elastic License 2.0
 
-Copyright (c) 2025 Taskella -Agentic-Core
+You may use, copy, modify, and distribute this software, with or without modification, subject to the following conditions:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. You may not provide the software to others as a hosted or managed service.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. You may not remove or alter any license, notice, or attribution.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. This license does not grant you any rights to use the trademarks or service marks of the licensor.
+
+See the full license terms at: https://www.elastic.co/licensing/elastic-license
+
+© 2025 Taskella Agentic Core. All rights reserved.
